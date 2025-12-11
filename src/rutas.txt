@@ -1,0 +1,3 @@
+cd /mnt/c/Users/sebas/Desktop/graph-layout-3d/src
+
+g++ mini_fr_3d_random.cpp -o mini_fr_3d_random -lGL -lGLU -lglut && ./mini_fr_3d_random

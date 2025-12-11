@@ -1,0 +1,23 @@
+# Binarios / builds
+src/mini_fr_3d_karate
+src/mini_fr_3d_random
+*.o
+*.out
+*.exe
+*.ppm
+
+# Archivos temporales
+*~
+*.swp
+
+# LaTeX
+*.aux
+*.log
+*.toc
+*.out
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# VS Code
+.vscode/
